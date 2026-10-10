@@ -1,0 +1,6 @@
+{
+  "name": "Bien dans l'Assiette - Document de Bienvenue",
+  "description": "Document officiel de bienvenue et guide d'accès pour les nouveaux acheteurs du guide Bien dans l'Assiette.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
